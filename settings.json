@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "Visual Studio Code",
+      "execPath": "C:\\Users\\kchen\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+    },
+    {
+      "name": "Visual Studio 2019",
+      "execPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Common7\\IDE\\devenv.exe"
+    }
+  ]
+}
